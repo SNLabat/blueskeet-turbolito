@@ -8,7 +8,7 @@ import { ClerkProvider, SignedIn, SignedOut } from "@clerk/clerk-expo";
 import { tokenCache } from "./cache";
 import SignInScreen from "./SignInScreen";
 
-const clerk_frontend_api = "clerk.able.sawfly-57.lcl.dev";
+const clerk_frontend_api = "thankful-monkfish-95.clerk.accounts.dev";
 
 export const App = () => {
   return (
